@@ -19,7 +19,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <div className="flex border-2 border-black justify-between items-center py-4 mx-auto px-2 md:px-6 lg:px-10">
+      <div className="flex border-2 border-black justify-between items-center py-4 mx-auto px-2 md:px-6 lg:px-10 mb-16">
         <div>
           <div className="">Logo</div>
         </div>
